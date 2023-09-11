@@ -1,6 +1,6 @@
 # Snake_Game
-This repository consists of programs and media for developing a Snake Game using HTML, CSS and JavaScript. 
-A simple game developed using pure JavaScript login and CSS web designing.
+This repository consists of programs and media for developing a Snake Game using HTML, CSS and JavaScript with audio effects. 
+A simple game developed using pure JavaScript login and CSS web designing with audio effects.
 More functions like, 
 1. Selecting speed of the snake,
 2. Adding users as needed,
