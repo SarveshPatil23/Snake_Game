@@ -5,7 +5,7 @@ More functions like,
 1. Selecting speed of the snake,
 2. Adding users as needed,
 3. Giving choice between snakes having different colours, etc,
-   could be added to make the game more interactive and enjoyable.
+could be added to make the game more interactive and enjoyable.
 .
 .
 .
